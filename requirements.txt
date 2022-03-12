@@ -46,7 +46,7 @@ onboard==1.4.1
 opt-einsum==3.2.1
 PAM==0.4.2
 pexpect==4.2.1
-Pillow==5.1.0
+Pillow==9.0.1
 protobuf==3.11.3
 psutil==5.4.2
 pyasn1==0.4.8
